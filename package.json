@@ -56,7 +56,7 @@
     "@babel/template": "^7.8.6",
     "@babel/traverse": "^7.8.6",
     "@babel/types": "^7.8.6",
-    "@bazel/jasmine": "2.2.0",
+    "@bazel/jasmine": "4.6.0",
     "@bazel/karma": "2.2.0",
     "@bazel/protractor": "2.2.0",
     "@bazel/rollup": "2.2.0",
